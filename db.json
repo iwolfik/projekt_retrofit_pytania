@@ -1,1 +1,19 @@
-# projekt_retrofit
+{
+  "pytania":[
+    {
+      "tytul":"tytuł1"
+      "tresc":"tresc1",  
+      "data":date,
+    },
+      {
+        "tytul":"tytuł2"
+      "tresc":"tresc2",
+         "data":date
+    },
+    {
+      "tytul":"tytuł3"
+    "tresc":"tresc3",
+       "data":
+    }
+  ] 
+}
