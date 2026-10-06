@@ -1,17 +1,17 @@
 [
   {
-    "tytul": "tytuł1",
-    "tresc": "tresc1",
-    "data": "Date1"
+    "tytul": "Jak zacząć programować w 2026 roku?",
+    "tresc": "Wybór pierwszego języka programowania bywa trudny. W tym artykule omawiamy, dlaczego Python i TypeScript to obecnie najlepsze opcje dla osób początkujących.",
+    "data": "2026-10-01"
   },
   {
-    "tytul": "tytuł2",
-    "tresc": "tresc2",
-    "data": "Date2"
+    "tytul": "5 nawyków, które poprawią Twoją produktywność",
+    "tresc": "Zarządzanie czasem to klucz do sukcesu. Dowiedz się, jak technika Pomodoro oraz cyfrowy detoks mogą pomóc Ci skupić się na tym, co naprawdę ważne.",
+    "data": "2026-10-04"
   },
   {
-    "tytul": "tytuł3",
-    "tresc": "tresc3",
-    "data": "Date3"
+    "tytul": "Najważniejsze trendy w technologii AI",
+    "tresc//": "Sztuczna inteligencja rozwija się w błyskawicznym tempie. Analizujemy najnowsze modele językowe oraz ich praktyczne zastosowanie w codziennej pracy biurowej.",
+    "data": "2026-10-06"
   }
 ]
