@@ -1,17 +1,17 @@
-  [
-    {
-      "tytul":"tytuł1"
-      "tresc":"tresc1",  
-      "data":"Date1",
-    },
-      {
-        "tytul":"tytuł2"
-      "tresc":"tresc2",
-         "data":"Date2",
-    },
-    {
-      "tytul":"tytuł3"
-    "tresc":"tresc3",
-       "data":"Date3",
-    }
-  ] 
+[
+  {
+    "tytul": "tytuł1",
+    "tresc": "tresc1",
+    "data": "Date1"
+  },
+  {
+    "tytul": "tytuł2",
+    "tresc": "tresc2",
+    "data": "Date2"
+  },
+  {
+    "tytul": "tytuł3",
+    "tresc": "tresc3",
+    "data": "Date3"
+  }
+]
