@@ -2,7 +2,7 @@
   {
     "tytul": "Pytanie 11111",
     "tresc": "Tu jest tresc 1",
-    "data": new Date("2026-10-01")
+    "data": "new Date("2026-10-01")"
   },
   {
     "tytul": "Pytanie 2",
