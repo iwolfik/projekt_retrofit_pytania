@@ -1,5 +1,4 @@
-{
-  "pytania":[
+  [
     {
       "tytul":"tytuł1"
       "tresc":"tresc1",  
@@ -16,4 +15,3 @@
        "data":"Date3",
     }
   ] 
-}
