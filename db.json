@@ -1,17 +1,18 @@
 [
   { 
-    tytul: "Jak odzyskać hasło do konta?", 
-    tresc: "Aby zresetować hasło, kliknij link 'Zapomniałem hasła' na stronie logowania i podaj swój adres e-mail. Wyślemy Ci instrukcje zmiany hasła.", 
-    data: "2026-10-01"
+    "tytul": "Jak odzyskać hasło do konta?", 
+    
+    "tresc": "Aby zresetować hasło, kliknij link 'Zapomniałem hasła' na stronie logowania i podaj swój adres e-mail. Wyślemy Ci instrukcje zmiany hasła.", 
+    "data": "2026-10-01"
   },
   { 
-    tytul: "Dostępne metody płatności", 
-    tresc: "W naszym sklepie obsługujemy płatności kartami płatniczymi (Visa, Mastercard), szybkie przelewy BLIK oraz tradycyjny przelew bankowy.", 
-    data: "2026-10-02"
+    "tytul": "Dostępne metody płatności", 
+    "tresc": "W naszym sklepie obsługujemy płatności kartami płatniczymi (Visa, Mastercard), szybkie przelewy BLIK oraz tradycyjny przelew bankowy.", 
+    "data": "2026-10-02"
   },
   { 
-    tytul: "Czas realizacji zamówienia", 
-    tresc: "Większość zamówień wysyłamy w ciągu 24 godzin od zaksięgowania wpłaty. Dostawa kurierem na terenie kraju trwa zazwyczaj 1-2 dni robocze.", 
-    data: "2026-10-03"
+    "tytul": "Czas realizacji zamówienia", 
+    "tresc": "Większość zamówień wysyłamy w ciągu 24 godzin od zaksięgowania wpłaty. Dostawa kurierem na terenie kraju trwa zazwyczaj 1-2 dni robocze.", 
+    "data": "2026-10-03"
   } 
 ]
